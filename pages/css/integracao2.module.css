@@ -1,0 +1,15 @@
+#itegracao2 {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.vermelha {
+    color: #f30;
+}
+
+.azul{
+    color: #03a;
+}
